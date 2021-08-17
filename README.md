@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Megan! 🪴
 - 👀 I’m interested in all things web dev and finding the next peak to climb! 🏔
-- 🌱 I’m currently learning how to translate the python programs I created into Javascript! (JS newbie)
+- 🌱 I’m currently learning how to translate the python programs I've created into Javascript! (JS newbie)
 - 📫 twitter: @meglevdev
 
 <!---
